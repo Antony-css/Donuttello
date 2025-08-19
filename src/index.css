@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Chewy', cursive;
+  background-color: #ffeff6;
+  overflow-x: hidden;
+}
